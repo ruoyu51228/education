@@ -1,0 +1,20 @@
+{
+  "name": "education",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruoyu51228/education.git"
+  },
+  "author": "Corey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruoyu51228/education/issues"
+  },
+  "homepage": "https://github.com/ruoyu51228/education#readme",
+  "description": ""
+}
